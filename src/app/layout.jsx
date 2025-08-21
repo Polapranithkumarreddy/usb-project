@@ -17,7 +17,7 @@ export default function RootLayout({ children }) {
         {children}
         <footer className=" bg-gray-200 py-6 text-center text-gray-600">
   <p>
-    &copy; {new Date().getFullYear()} Supraja Technologies. All rights reserved.
+    &copy; {new Date().getFullYear()} Supraja Technologies. All rights reserved
   </p>
 </footer>
       </body>
